@@ -3,8 +3,8 @@
     {
       "localPort": 10808,
       "protocol": "socks",
-      "udpEnabled": true,
-      "sniffingEnabled": true
+      "udpEnabled": false,
+      "sniffingEnabled": false
     }
   ],
   "logEnabled": false,
@@ -13,16 +13,16 @@
   "vmess": [
     {
       "configVersion": 2,
-      "address": "free6666.tk",
+      "address": "www.free6666.net",
       "port": 443,
-      "id": "64e14610-c6f7-41b2-896d-fe19e3f14020",
-      "alterId": 233,
+      "id": "bc0abab8-a0e7-40dd-8e20-7acabed8625a",
+      "alterId": 2,
       "security": "auto",
       "network": "ws",
-      "remarks": "233v2.com_free6666.tk",
+      "remarks": "https://github.com/Alvin9999/new-pac/wiki",
       "headerType": "none",
-      "requestHost": "free6666.tk",
-      "path": "/",
+      "requestHost": "www.free6666.net",
+      "path": "/6aa0a068/",
       "streamSecurity": "tls",
       "allowInsecure": "",
       "configType": 1,
@@ -47,9 +47,9 @@
   },
   "sysAgentEnabled": false,
   "listenerType": 0,
-  "urlGFWList": null,
+  "urlGFWList": "",
   "allowLANConn": false,
-  "remoteDNS": null,
+  "remoteDNS": "",
   "subItem": null,
   "uiItem": {
     "mainQRCodeWidth": 600
